@@ -1,0 +1,1092 @@
+[
+  {
+    "_id": "5f918efc919fbd0124f30fcf",
+    "ru": "Россия",
+    "en": "Russia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd0",
+    "ru": "Украина",
+    "en": "Ukraine"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd1",
+    "ru": "Абхазия",
+    "en": "Abkhazia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd2",
+    "ru": "Австралия",
+    "en": "Australia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd3",
+    "ru": "Австрия",
+    "en": "Austria"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd4",
+    "ru": "Азербайджан",
+    "en": "Azerbaijan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd5",
+    "ru": "Албания",
+    "en": "Albania"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd6",
+    "ru": "Алжир",
+    "en": "Algeria"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd7",
+    "ru": "Ангола",
+    "en": "Angola"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd8",
+    "ru": "Ангуилья",
+    "en": "Anguilla"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fd9",
+    "ru": "Андорра",
+    "en": "Andorra"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fda",
+    "ru": "Антигуа и Барбуда",
+    "en": "Antigua and Barbuda"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fdb",
+    "ru": "Антильские о-ва",
+    "en": "Antilles"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fdc",
+    "ru": "Аргентина",
+    "en": "Argentina"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fdd",
+    "ru": "Армения",
+    "en": "Armenia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fde",
+    "ru": "Арулько",
+    "en": "Arulco"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fdf",
+    "ru": "Афганистан",
+    "en": "Afghanistan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe0",
+    "ru": "Багамские о-ва",
+    "en": "Bahamas"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe1",
+    "ru": "Бангладеш",
+    "en": "Bangladesh"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe2",
+    "ru": "Барбадос",
+    "en": "Barbados"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe3",
+    "ru": "Бахрейн",
+    "en": "Bahrain"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe4",
+    "ru": "Беларусь",
+    "en": "Belarus"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe5",
+    "ru": "Белиз",
+    "en": "Belize"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe6",
+    "ru": "Бельгия",
+    "en": "Belgium"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe7",
+    "ru": "Бенин",
+    "en": "Benin"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe8",
+    "ru": "Бермуды",
+    "en": "Bermuda"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fe9",
+    "ru": "Болгария",
+    "en": "Bulgaria"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fea",
+    "ru": "Боливия",
+    "en": "Bolivia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30feb",
+    "ru": "Босния/Герцеговина",
+    "en": "Bosnia / Herzegovina"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fec",
+    "ru": "Ботсвана",
+    "en": "Botswana"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fed",
+    "ru": "Бразилия",
+    "en": "Brazil"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fee",
+    "ru": "Британские Виргинские о-ва",
+    "en": "British virgin islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fef",
+    "ru": "Бруней",
+    "en": "Brunei"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff0",
+    "ru": "Буркина Фасо",
+    "en": "Burkina Faso"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff1",
+    "ru": "Бурунди",
+    "en": "Burundi"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff2",
+    "ru": "Бутан",
+    "en": "Butane"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff3",
+    "ru": "Валлис и Футуна о-ва",
+    "en": "Wallis and Futuna Islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff4",
+    "ru": "Вануату",
+    "en": "Vanuatu"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff5",
+    "ru": "Великобритания",
+    "en": "Great Britain"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff6",
+    "ru": "Венгрия",
+    "en": "Hungary"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff7",
+    "ru": "Венесуэла",
+    "en": "Venezuela"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff8",
+    "ru": "Восточный Тимор",
+    "en": "East Timor"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ff9",
+    "ru": "Вьетнам",
+    "en": "Vietnam"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ffa",
+    "ru": "Габон",
+    "en": "Gabon"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ffb",
+    "ru": "Гаити",
+    "en": "Haiti"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ffc",
+    "ru": "Гайана",
+    "en": "Guyana"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ffd",
+    "ru": "Гамбия",
+    "en": "Gambia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30ffe",
+    "ru": "Гана",
+    "en": "Ghana"
+  },
+  {
+    "_id": "5f918efc919fbd0124f30fff",
+    "ru": "Гваделупа",
+    "en": "Guadeloupe"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31000",
+    "ru": "Гватемала",
+    "en": "Guatemala"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31001",
+    "ru": "Гвинея",
+    "en": "Guinea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31002",
+    "ru": "Гвинея-Бисау",
+    "en": "Guinea-Bissau"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31003",
+    "ru": "Германия",
+    "en": "Germany"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31004",
+    "ru": "Гернси о-в",
+    "en": "Guernsey"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31005",
+    "ru": "Гибралтар",
+    "en": "Gibraltar"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31006",
+    "ru": "Гондурас",
+    "en": "Honduras"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31007",
+    "ru": "Гонконг",
+    "en": "Hong Kong"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31008",
+    "ru": "Гренада",
+    "en": "Grenada"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31009",
+    "ru": "Гренландия",
+    "en": "Greenland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100a",
+    "ru": "Греция",
+    "en": "Greece"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100b",
+    "ru": "Грузия",
+    "en": "Georgia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100c",
+    "ru": "Дания",
+    "en": "Denmark"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100d",
+    "ru": "Джерси о-в",
+    "en": "Jersey"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100e",
+    "ru": "Джибути",
+    "en": "Djibouti"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3100f",
+    "ru": "Доминиканская республика",
+    "en": "Dominican Republic"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31010",
+    "ru": "Египет",
+    "en": "Egypt"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31011",
+    "ru": "Замбия",
+    "en": "Zambia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31012",
+    "ru": "Западная Сахара",
+    "en": "West Sahara"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31013",
+    "ru": "Зимбабве",
+    "en": "Zimbabwe"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31014",
+    "ru": "Израиль",
+    "en": "Israel"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31015",
+    "ru": "Индия",
+    "en": "India"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31016",
+    "ru": "Индонезия",
+    "en": "Indonesia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31017",
+    "ru": "Иордания",
+    "en": "Jordan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31018",
+    "ru": "Ирак",
+    "en": "Iraq"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31019",
+    "ru": "Иран",
+    "en": "Iran"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101a",
+    "ru": "Ирландия",
+    "en": "Ireland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101b",
+    "ru": "Исландия",
+    "en": "Iceland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101c",
+    "ru": "Испания",
+    "en": "Spain"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101d",
+    "ru": "Италия",
+    "en": "Italy"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101e",
+    "ru": "Йемен",
+    "en": "Yemen"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3101f",
+    "ru": "Кабо-Верде",
+    "en": "Cape Verde"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31020",
+    "ru": "Казахстан",
+    "en": "Kazakhstan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31021",
+    "ru": "Камбоджа",
+    "en": "Cambodia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31022",
+    "ru": "Камерун",
+    "en": "Cameroon"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31023",
+    "ru": "Канада",
+    "en": "Canada"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31024",
+    "ru": "Катар",
+    "en": "Qatar"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31025",
+    "ru": "Кения",
+    "en": "Kenya"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31026",
+    "ru": "Кипр",
+    "en": "Cyprus"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31027",
+    "ru": "Кирибати",
+    "en": "Kiribati"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31028",
+    "ru": "Китай",
+    "en": "China"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31029",
+    "ru": "Колумбия",
+    "en": "Colombia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102a",
+    "ru": "Коморские о-ва",
+    "en": "Comoros"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102b",
+    "ru": "Конго (Brazzaville)",
+    "en": "Congo (Brazzaville)"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102c",
+    "ru": "Конго (Kinshasa)",
+    "en": "Congo (Kinshasa)"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102d",
+    "ru": "Коста-Рика",
+    "en": "Costa Rica"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102e",
+    "ru": "Кот-д'Ивуар",
+    "en": "Ivory Coast"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3102f",
+    "ru": "Куба",
+    "en": "Cuba"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31030",
+    "ru": "Кувейт",
+    "en": "Kuwait"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31031",
+    "ru": "Кука о-ва",
+    "en": "Cook Islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31032",
+    "ru": "Кыргызстан",
+    "en": "Kyrgyzstan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31033",
+    "ru": "Лаос",
+    "en": "Laos"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31034",
+    "ru": "Латвия",
+    "en": "Latvia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31035",
+    "ru": "Лесото",
+    "en": "Lesotho"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31036",
+    "ru": "Либерия",
+    "en": "Liberia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31037",
+    "ru": "Ливан",
+    "en": "Lebanon"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31038",
+    "ru": "Ливия",
+    "en": "Libya"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31039",
+    "ru": "Литва",
+    "en": "Lithuania"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103a",
+    "ru": "Лихтенштейн",
+    "en": "Liechtenstein"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103b",
+    "ru": "Люксембург",
+    "en": "Luxembourg"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103c",
+    "ru": "Маврикий",
+    "en": "Mauritius"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103d",
+    "ru": "Мавритания",
+    "en": "Mauritania"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103e",
+    "ru": "Мадагаскар",
+    "en": "Madagascar"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3103f",
+    "ru": "Македония",
+    "en": "Macedonia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31040",
+    "ru": "Малави",
+    "en": "Malawi"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31041",
+    "ru": "Малайзия",
+    "en": "Malaysia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31042",
+    "ru": "Мали",
+    "en": "Mali"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31043",
+    "ru": "Мальдивские о-ва",
+    "en": "Maldives"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31044",
+    "ru": "Мальта",
+    "en": "Malta"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31045",
+    "ru": "Мартиника о-в",
+    "en": "Martinique island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31046",
+    "ru": "Мексика",
+    "en": "Mexico"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31047",
+    "ru": "Мозамбик",
+    "en": "Mozambique"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31048",
+    "ru": "Молдова",
+    "en": "Moldova"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31049",
+    "ru": "Монако",
+    "en": "Monaco"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104a",
+    "ru": "Монголия",
+    "en": "Mongolia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104b",
+    "ru": "Марокко",
+    "en": "Morocco"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104c",
+    "ru": "Мьянма (Бирма)",
+    "en": "Myanmar (Burma)"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104d",
+    "ru": "Мэн о-в",
+    "en": "Maine island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104e",
+    "ru": "Намибия",
+    "en": "Namibia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3104f",
+    "ru": "Науру",
+    "en": "Nauru"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31050",
+    "ru": "Непал",
+    "en": "Nepal"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31051",
+    "ru": "Нигер",
+    "en": "Niger"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31052",
+    "ru": "Нигерия",
+    "en": "Nigeria"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31053",
+    "ru": "Нидерланды (Голландия)",
+    "en": "Netherlands (Holland)"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31054",
+    "ru": "Никарагуа",
+    "en": "Nicaragua"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31055",
+    "ru": "Новая Зеландия",
+    "en": "New Zealand"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31056",
+    "ru": "Новая Каледония о-в",
+    "en": "New Caledonia Island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31057",
+    "ru": "Норвегия",
+    "en": "Norway"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31058",
+    "ru": "Норфолк о-в",
+    "en": "Norfolk Island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31059",
+    "ru": "О.А.Э.",
+    "en": "O.A.E."
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105a",
+    "ru": "Оман",
+    "en": "Oman"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105b",
+    "ru": "Пакистан",
+    "en": "Pakistan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105c",
+    "ru": "Панама",
+    "en": "Panama"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105d",
+    "ru": "Папуа Новая Гвинея",
+    "en": "Papua New Guinea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105e",
+    "ru": "Парагвай",
+    "en": "Paraguay"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3105f",
+    "ru": "Перу",
+    "en": "Peru"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31060",
+    "ru": "Питкэрн о-в",
+    "en": "Pitcairn Island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31061",
+    "ru": "Польша",
+    "en": "Poland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31062",
+    "ru": "Португалия",
+    "en": "Portugal"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31063",
+    "ru": "Пуэрто Рико",
+    "en": "Puerto Rico"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31064",
+    "ru": "Реюньон",
+    "en": "Reunion"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31065",
+    "ru": "Руанда",
+    "en": "Rwanda"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31066",
+    "ru": "Румыния",
+    "en": "Romania"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31067",
+    "ru": "США",
+    "en": "USA"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31068",
+    "ru": "Сальвадор",
+    "en": "Salvador"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31069",
+    "ru": "Самоа",
+    "en": "Samoa"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106a",
+    "ru": "Сан-Марино",
+    "en": "San marino"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106b",
+    "ru": "Сан-Томе и Принсипи",
+    "en": "Sao Tome and Principe"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106c",
+    "ru": "Саудовская Аравия",
+    "en": "Saudi Arabia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106d",
+    "ru": "Свазиленд",
+    "en": "Swaziland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106e",
+    "ru": "Святая Люсия",
+    "en": "Saint Lucia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3106f",
+    "ru": "Святой Елены о-в",
+    "en": "Saint Helena Island"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31070",
+    "ru": "Северная Корея",
+    "en": "North Korea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31071",
+    "ru": "Сейшеллы",
+    "en": "Seychelles"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31072",
+    "ru": "Сен-Пьер и Микелон",
+    "en": "Saint Pierre and Miquelon"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31073",
+    "ru": "Сенегал",
+    "en": "Senegal"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31074",
+    "ru": "Сент Китс и Невис",
+    "en": "Saint Kitts and Nevis"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31075",
+    "ru": "Сент-Винсент и Гренадины",
+    "en": "Saint Vincent and the Grenadines"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31076",
+    "ru": "Сербия",
+    "en": "Serbia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31077",
+    "ru": "Сингапур",
+    "en": "Singapore"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31078",
+    "ru": "Сирия",
+    "en": "Syria"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31079",
+    "ru": "Словакия",
+    "en": "Slovakia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107a",
+    "ru": "Словения",
+    "en": "Slovenia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107b",
+    "ru": "Соломоновы о-ва",
+    "en": "Solomon Islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107c",
+    "ru": "Сомали",
+    "en": "Somalia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107d",
+    "ru": "Судан",
+    "en": "Sudan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107e",
+    "ru": "Суринам",
+    "en": "Suriname"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3107f",
+    "ru": "Сьерра-Леоне",
+    "en": "Sierra Leone"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31080",
+    "ru": "Таджикистан",
+    "en": "Tajikistan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31081",
+    "ru": "Тайвань",
+    "en": "Taiwan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31082",
+    "ru": "Таиланд",
+    "en": "Thailand"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31083",
+    "ru": "Танзания",
+    "en": "Tanzania"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31084",
+    "ru": "Того",
+    "en": "Togo"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31085",
+    "ru": "Токелау о-ва",
+    "en": "Tokelau Islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31086",
+    "ru": "Тонга",
+    "en": "Tonga"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31087",
+    "ru": "Тринидад и Тобаго",
+    "en": "Trinidad and Tobago"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31088",
+    "ru": "Тувалу",
+    "en": "Tuvalu"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31089",
+    "ru": "Тунис",
+    "en": "Tunisia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108a",
+    "ru": "Туркменистан",
+    "en": "Turkmenistan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108b",
+    "ru": "Туркс и Кейкос",
+    "en": "Turks and Keikos"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108c",
+    "ru": "Турция",
+    "en": "Turkey"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108d",
+    "ru": "Уганда",
+    "en": "Uganda"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108e",
+    "ru": "Узбекистан",
+    "en": "Uzbekistan"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3108f",
+    "ru": "Уругвай",
+    "en": "Uruguay"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31090",
+    "ru": "Фарерские о-ва",
+    "en": "Faroe Islands"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31091",
+    "ru": "Фиджи",
+    "en": "Fiji"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31092",
+    "ru": "Филиппины",
+    "en": "Philippines"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31093",
+    "ru": "Финляндия",
+    "en": "Finland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31094",
+    "ru": "Франция",
+    "en": "France"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31095",
+    "ru": "Французская Гвинея",
+    "en": "French guinea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31096",
+    "ru": "Французская Полинезия",
+    "en": "French polynesia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31097",
+    "ru": "Хорватия",
+    "en": "Croatia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31098",
+    "ru": "Чад",
+    "en": "Chad"
+  },
+  {
+    "_id": "5f918efc919fbd0124f31099",
+    "ru": "Черногория",
+    "en": "Montenegro"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109a",
+    "ru": "Чехия",
+    "en": "Czech Republic"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109b",
+    "ru": "Чили",
+    "en": "Chile"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109c",
+    "ru": "Швейцария",
+    "en": "Switzerland"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109d",
+    "ru": "Швеция",
+    "en": "Sweden"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109e",
+    "ru": "Шри-Ланка",
+    "en": "Sri Lanka"
+  },
+  {
+    "_id": "5f918efc919fbd0124f3109f",
+    "ru": "Эквадор",
+    "en": "Ecuador"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a0",
+    "ru": "Экваториальная Гвинея",
+    "en": "Equatorial Guinea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a1",
+    "ru": "Эритрея",
+    "en": "Eritrea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a2",
+    "ru": "Эстония",
+    "en": "Estonia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a3",
+    "ru": "Эфиопия",
+    "en": "Ethiopia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a4",
+    "ru": "ЮАР",
+    "en": "South Africa"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a5",
+    "ru": "Южная Корея",
+    "en": "South Korea"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a6",
+    "ru": "Южная Осетия",
+    "en": "South Ossetia"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a7",
+    "ru": "Ямайка",
+    "en": "Jamaica"
+  },
+  {
+    "_id": "5f918efc919fbd0124f310a8",
+    "ru": "Япония",
+    "en": "Japan"
+  }
+]
