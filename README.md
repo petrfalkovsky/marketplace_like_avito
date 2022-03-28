@@ -1,7 +1,7 @@
 # Практика Flutter trainee
 в компании [envx team](https://git.envx.team/) для [Тереньтева Петра](https://spb.hh.ru/applicant/resumes/view?resume=e6244a57ff097f336e0039ed1f744e4162784f)
 
-# Приложение погоды
+# Классифайд, маркетплейс: вещи, авто, недвижимость за крипту
 используемые технологии: Flutter/Dart, Git (gitlab), Figma, Rest json API, UI (widgets, theme), block
 
 ## Зона ответственности:
